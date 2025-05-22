@@ -1,5 +1,4 @@
-*How_to_Save_New_Commit*
-Here's a step-by-step guide to push a commit to a GitHub repository:
+*How_to_Save_New_Commit*  : Here's a step-by-step guide to push a commit to a GitHub repository:
 
 ✅ 1. Add all change
   # git add .
